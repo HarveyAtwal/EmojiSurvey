@@ -1,0 +1,12 @@
+.list {
+  list-style-type: none;
+}
+
+.list__item {
+  margin-bottom: 10px;
+}
+
+.list__item--selected  .card {
+  background: #45DBC2;
+  color: #004229;
+}

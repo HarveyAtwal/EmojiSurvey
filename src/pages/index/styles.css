@@ -1,0 +1,14 @@
+.index-page {
+  margin: 60px auto;
+  width: 600px;
+}
+
+.index--page__stats-item {
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.index--page__stats-item .progress {
+  margin-left: 10px;
+  flex: 1;
+}

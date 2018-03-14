@@ -1,0 +1,11 @@
+.card {
+  background: white;
+  border-radius: 3px;
+  border: 1px solid #eeeeee;
+  padding: 15px;
+}
+
+.card--hover:hover {
+  cursor: pointer;
+  background: #efefef;
+}
